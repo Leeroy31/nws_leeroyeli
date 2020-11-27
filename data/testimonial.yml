@@ -1,0 +1,23 @@
+enable  : true
+title   : "COLLABORATEURS DE PROJET"
+subtitle: ""
+testimonial_item :
+  - thumb : ""
+    name  : "Alexis Cote"
+    company_position: ""
+    quote : > 
+            "Collaborateur sur le projet ulule" 
+
+  - thumb : ""
+    name  : "Charles Sauvat"
+    company_position: ""
+    quote : > 
+            "Collaborateur sur le projet ulule" 
+
+  - thumb : ""
+    name  : "Melick Kaboré"
+    company_position: ""
+    quote : > 
+            "Collaborateur sur le projet ulule." 
+
+  

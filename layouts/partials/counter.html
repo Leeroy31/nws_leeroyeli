@@ -1,0 +1,23 @@
+{{ with .Site.Data.counter }}
+  {{ if .enable }}
+  <section class="site-counter" id="counter" style="background: #03045e;">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title" style="text-align: center">
+            <h2 class="text-white">{{ .heading }}"DEMAIN CONSTRUIT AUJOURD'HUI"</h2>
+          </div>
+          
+        </div>
+        {{ range .counter_item }}
+        <div class="col-lg-3 col-md-6">
+          <div class="site-counter-item">
+            <span class="site-counter-item-title">{{ .title }}</span>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,112 @@
+baseURL       = "http://example.org/"
+languageCode  = "en-us"
+title         = "Leeroy ELI | Developper Web & Mobile"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = ""
+    url     = "index.html"
+    weight  = 1
+  [[menu.nav]]
+    name    = ""
+    url     = ""
+    weight  = 2
+  [[menu.nav]]
+    name    = ""
+    url     = ""
+    weight  = 3
+  [[menu.nav]]
+    name    = ""
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Qui suis-je"
+    url     = "about"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logotype.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Leeroy ELI | Developper Web & Mobile"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/altumcode-dMUt0X3f59Q-unsplash.jpg"
+    heading               = ""
+    tagline               = "Piti piti, toti ka monté montagne"
+    primary_button        = "A propos"
+    primary_button_url    = "portfolio"
+    secondary_button      = ""
+    secondary_button_url  = ""
+
+  [params.portfolio]
+    enable    = true
+    title     = "MES TRAVAUX"
+    subtitle  = ""
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/"
+    title               = "TRAVAILLONS ENSEMBLE"
+    primary_button      = "Soumettre"
+    primary_button_url  = "contact"
+    secondary_button    = "Not Convinced"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Me contacter"
+      address = "8 avenue de Bretagne<br>76100, Rouen"
+      phone   = "06 03 55 97 78"
+      email   = "elileeroy@yahoo.fr"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "A propos"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Portfolio"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Réseaux sociaux"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "https://www.instagram.com/leeroy__eli/"
+        [[params.footer.social.link]]
+          name = "Linkedin"
+          url  = "https://www.linkedin.com/in/leeroy-eli/"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "https://www.facebook.com/leeroy.eli"
+        [[params.footer.social.link]]
+          name = "Twitter"
+          url  = "https://twitter.com/leeroy__eli"
+      # Footer Service
+      [params.footer.service]
+        title       = "La réussite,c'est ensemble:"
+        description = "Développer des solutions de conception pour un contenu culturel précieux et créer une nouvelle expérience de marque"
