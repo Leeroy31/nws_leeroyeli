@@ -4,7 +4,7 @@ date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/ulule.jpg"
 category: ["BOITE À OUTILS CRÉATIVE"]
-project_images: ["images/projects/Goo-Boo logotype 1.png", "images/projects/mockup_goo_boo.png"]
+project_images: ["images/projects/Goo-Boo logotype 1.png", "images/projects/mockup_goo_boo.jpg"]
 
 ---
 
