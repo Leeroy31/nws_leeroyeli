@@ -9,5 +9,5 @@ project_images: ["images/projects/IMG_3825.jpg"]
 
 Dans le cadre du développement de mon territoire, la Guyane, j'aimerais pour développer une application mobile avec les actualités, les lieux et encore bien d'autres sur le territoire Guyanais.
 
-Cette application que se nommera: "YANA'APP", sera un tournant pour le tourisme en Guyane afin de voir la Guyane d'un autre point de vue et permettant de découvrir et faire emerveiller tout ce qui s'y passe.
+Cette application que se nommera: "YANA'APP", sera un tournant pour le tourisme en Guyane afin de voir la Guyane d'un autre point de vue et permettant de découvrir et faire émerveiller tout ce qui s'y passe.
 
