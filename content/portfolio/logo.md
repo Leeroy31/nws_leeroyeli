@@ -4,7 +4,7 @@ date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/design.jpg"
 category: ["IMAGE DE MARQUE PERSONNELLE"]
-project_images: ["images/projects/logo_leeroyeli.png", "images/projects/"]
+project_images: ["images/projects/logo_leeroyeli.png"]
 ---
 
 En étudiant à la Normandie Web School, nous devenons des jeunes professionnels. Et pour cela, il nous faut avoir une identité visuelle de marque. 
