@@ -1,4 +1,4 @@
 ---
-title: "Nous réalisons des <span style="color:#c59b43">projets</span> dans le but d'être au meilleur <span>niveau</span>"
+title: "Nous réalisons des projets dans le but d'être au meilleur niveau"
 date: 2019-12-23T16:48:28+06:00
 ---
