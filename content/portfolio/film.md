@@ -11,4 +11,4 @@ Dans le cadre de l'EU "ÉCRITURE ET SCÉNARIO", nous avions pour but de réalise
 
 Pour cela, il nous a été demandé comme des professionnels avec la réalisation de synopsis, scénario, script afin de pouvoir être dans les meilleures conditions pour la réalisation de ce projet.
 
-Eli Leeroy - Ecriture de votre scénario.pdf.zip
+
