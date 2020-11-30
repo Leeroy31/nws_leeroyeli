@@ -6,7 +6,7 @@ description : "Je souhaite me spécialisé dans le développement web et mobile,
 expertise_title: "COMPÉTENCES"
 expertise_sectors: ["Html", "Css", "InDesign", "Github", "Illustrator", "Photoshop", "Première Pro"]
 
-projet : Attiré par les contes et mythes de mon pays, tomber sur la dame blanche, esprit que beaucoup de personnes disent hanter le passage de la fameuse montagne des pères fait partie de mes plus grosses peurs. 
+projet: Attiré par les contes et mythes de mon pays, tomber sur la dame blanche, esprit que beaucoup de personnes disent hanter le passage de la fameuse montagne des pères fait partie de mes plus grosses peurs. 
 
 L’échec, les serpents et araignées, la pauvreté et les blessures liées au sport m’effraient. 
 Je vais vous expliquer pourquoi je me trouve parmi vous, pourquoi je suis face à vous.
