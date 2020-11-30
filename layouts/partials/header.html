@@ -21,7 +21,7 @@
         {{ range $index, $element := $menu }} 
           {{ if eq (add $index 1) $len }}
           <li class="nav-item">
-            <a
+            <a style="background: #c59b43;"
             class="nav-link btn btn-sm btn-primary btn-sm-rounded"
               href="{{ .URL | absURL }}" 
             >
