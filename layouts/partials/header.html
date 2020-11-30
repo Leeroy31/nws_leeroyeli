@@ -21,11 +21,11 @@
         {{ range $index, $element := $menu }} 
           {{ if eq (add $index 1) $len }}
           <li class="nav-item">
-            <a style="background: #c59b43;"
-            class="nav-link btn btn-sm btn-primary btn-sm-rounded"
+            <a
+            class="nav-link btn btn-sm btn-primary btn-sm-rounded style"
               href="{{ .URL | absURL }}" 
             >
-              <span class="btn-area">
+              <span class="btn-area" style="background: #c59b43;">
                 <span data-text="{{ .Name }}">
                   {{ .Name }}
                 </span>
