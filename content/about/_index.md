@@ -17,6 +17,6 @@ Balle à la main depuis mon enfance, mon aventure s’est construite autour du h
 
 Ne réussissant pas dans le domaine dans lequel je voulais être professionnel, le handball, la période sanitaire liée au Covid-19 et plus précisément en Guyane, ont été les déclencheurs d’une conversion. J’attaque aujourd’hui un nouveau challenge dans un domaine dans lequel pourra s’exprimer ma personnalité; discrétion, créativité et combativité. Le métier de développeur web me convient et me tient à cœur afin de travailler dans les métiers du monde d’hier, d'aujourd'hui et de demain.
 
-Comme on le dit chez nous, " A GREN DOURI KA PLEN SAK DOURI “, qui se traduit par; en avançant par petites étapes, avec de la patience et de la persévérance on atteint son but."
+Comme on le dit chez nous, ' A GREN DOURI KA PLEN SAK DOURI ', qui se traduit par; en avançant par petites étapes, avec de la patience et de la persévérance on atteint son but."
 
 ---
