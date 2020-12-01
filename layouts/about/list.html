@@ -23,6 +23,13 @@
       <br/>
       {{ .Params.projet }}
     </p>
+    <div class="col-md-6">
+      <ul class="site-expertise-list">
+        {{ range .Params.expertise_sectors }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 </section>
 
